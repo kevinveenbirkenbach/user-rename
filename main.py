@@ -13,6 +13,7 @@ import argparse
 import subprocess
 import sys
 import pwd
+import os
 
 
 def user_exists(username):
